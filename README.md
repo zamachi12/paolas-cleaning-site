@@ -87,7 +87,7 @@ The site loads Tailwind from its Play CDN (as specified). It works, but Tailwind
 ## Things Paola must confirm (every bracketed item)
 
 **Business facts**
-- Hours of operation (footer)
+- Which days the 8am–8pm hours apply to (footer shows "8am–8pm" only)
 - Response time for quotes: "within 24 hours" on the home card, "[X] hours" on the quote page and success message
 - Are cleaning supplies included? (How it works step 3, bento tile, FAQ 1)
 - Same cleaner every visit? (bento tile)
