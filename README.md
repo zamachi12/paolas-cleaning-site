@@ -7,7 +7,7 @@ index.html  services.html  before-after.html  about.html  quote.html
 css/styles.css      brand tokens + all components
 js/main.js          menu, accordions, before/after sliders, gallery filters, quote form
 js/i18n.js          every English + Spanish string, and the language toggle
-images/logo.png     PLACEHOLDER — replace with the real logo
+images/logo.png     official wreath logo (transparent PNG)
 images/favicon.svg  droplet + leaf from the wreath
 images/placeholders/   page photos (see shot list)
 images/before-after/   before/after pairs
@@ -19,10 +19,8 @@ Preview locally: open a terminal in this folder, run `python3 -m http.server`, t
 
 ---
 
-## 1. Before launch: replace the logo
-Save the real wreath logo as **`images/logo.png`** (square, transparent background, at least 240×240px). It's used in the nav and footer. The placeholder says "placeholder logo" so it can't ship by accident.
-
-Also add **`images/og-image.jpg`** (1200×630) — the preview image when the site is shared on Facebook/iMessage. A photo of a finished room with the logo works well.
+## 1. Logo
+`images/logo.png` is the official wreath logo (transparent background), used in the nav and footer. `images/og-image.jpg` (the preview when the site is shared on Facebook/iMessage) is the logo on white — swap in a photo of a finished room with the logo later if you like.
 
 ## 2. Photos — just drop files in
 
@@ -103,7 +101,6 @@ The site loads Tailwind from its Play CDN (as specified). It works, but Tailwind
 - Typical duration for recurring vs. deep (comparison table)
 
 **Content to supply**
-- Real logo (`images/logo.png`) and share image (`images/og-image.jpg`)
 - All photos in the shot list, including 8 before/after pairs
 - Before/after captions: hours on site and area for each pair
 - Three real customer reviews with first name and neighborhood (home page) — only real ones

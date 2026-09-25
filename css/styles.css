@@ -131,7 +131,7 @@ html a.btn-ghost:hover, .btn-ghost:hover { background: var(--blue-50); color: va
 .site-header { position: sticky; top: 0; z-index: 50; background: var(--white); border-bottom: 1px solid var(--blue-200); }
 .nav { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: var(--header-h); }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--blue-800) !important; min-height: 44px; }
-.brand img { width: 60px; height: 60px; object-fit: contain; }
+.brand img { width: 68px; height: 68px; object-fit: contain; }
 .brand-name { font-family: var(--font-display); font-weight: 600; font-size: 1.125rem; line-height: 1.1; max-width: 10ch; }
 .nav-links { display: none; gap: 4px; list-style: none; margin: 0; padding: 0; }
 .nav-links a {
@@ -352,7 +352,7 @@ button.chip[aria-pressed="true"] { background: var(--blue-700); border-color: va
 .site-footer ul { list-style: none; padding: 0; display: grid; gap: 4px; }
 .site-footer ul a { color: var(--blue-800); text-decoration: none; display: inline-flex; min-height: 36px; align-items: center; }
 .site-footer ul a:hover { color: var(--blue-700); text-decoration: underline; }
-.footer-logo { width: 88px; height: 88px; object-fit: contain; margin-bottom: 14px; }
+.footer-logo { width: 120px; height: 120px; object-fit: contain; margin-bottom: 14px; }
 .footer-bottom { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--blue-200); display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between; align-items: center; }
 .break-all { overflow-wrap: anywhere; }
 
