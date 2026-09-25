@@ -25,6 +25,9 @@ Save the real wreath logo as **`images/logo.png`** (square, transparent backgrou
 Also add **`images/og-image.jpg`** (1200×630) — the preview image when the site is shared on Facebook/iMessage. A photo of a finished room with the logo works well.
 
 ## 2. Photos — just drop files in
+
+**Right now the photo slots hold AI-generated stand-in images** (the separated shots are also in `images/placeholders/grid/`). They are not Paola or her real jobs, and the site copy says the photos are real — replace them with real photos before launch. Before/after pairs are still empty.
+
 Every photo spot already points at its final file name. Save a photo with that exact name and it appears; until then a light-blue placeholder with the shot name shows instead. Use JPG, roughly the sizes below, under ~400 KB each (compress at squoosh.app).
 
 ### Shot list
